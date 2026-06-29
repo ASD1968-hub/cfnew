@@ -1,1 +1,2 @@
-compatibility_date = "2026-01-20"
+name = "my-cfnew-site"
+pages_build_output_dir = "./dist"
