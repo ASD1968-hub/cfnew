@@ -1,4 +1,4 @@
-compatibility_date = "2026-06-29"
+name = "cfnew"compatibility_date = "2026-06-29"
 
 [assets]
 directory = "./"
