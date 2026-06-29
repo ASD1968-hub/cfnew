@@ -1,8 +1,4 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "cfnew"
 compatibility_date = "2026-01-20"
-main = "_worker.js"
-
-[assets]
-directory = "./"
-binding = "ASSETS"
+main = "少年你相信光吗"
