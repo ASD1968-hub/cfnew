@@ -1,2 +1,4 @@
-name = "my-cfnew-site"
-pages_build_output_dir = "./dist"
+compatibility_date = "2026-06-29"
+
+[assets]
+directory = "./"
